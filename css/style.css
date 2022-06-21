@@ -14,10 +14,12 @@
 
     --color-black: #000000;
     --color-white: #ffffff;
+
     --color-light-1: rgba(255, 255, 255, 0.8);
     --color-light-2: rgba(255, 255, 255, 0.6);
     --color-light-3: rgb(217, 217, 217);
     --color-ligh-4: #9d9d9d;
+
     --color-dark: rgba(0, 0, 0, 0.3);
     --color-dark-1: rgba(0, 0, 0, 0.35);
     --color-dark-2: #161616;
@@ -35,6 +37,7 @@
 
     --transition-1: all .25s;
 
+    /* Animate - Custom Properties */
     --animate-duration: 1.5s;
 
 }
