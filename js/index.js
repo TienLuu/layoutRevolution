@@ -90,6 +90,8 @@ $(".scrollToTop").click(function () {
 /* 
    INIT TYPED
 */
+
+// Subscribe
 var typed = new Typed(".typed", {
    strings: ["websites", "apps", "motion"],
    loop: true,
